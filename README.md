@@ -71,7 +71,7 @@ OpenAI موارد مرتبط با CSAM را به مرکز ملی کودکان گ
 
 - [سیاست کامل استفاده از Llama 2](https://ai.meta.com/llama/use-policy)
 - [سیاست کامل استفاده از ChatGPT و API OpenAI](https://openai.com/policies/usage-policies)
-- [بهترین شیوه‌های ایمنی OpenAI](https://openai.com/safety-best-practices)
+
 
 ---
 
